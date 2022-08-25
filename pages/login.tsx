@@ -36,7 +36,7 @@ function Login() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Image
-        src="https://rb.gy/p2hphi"
+        src="https://st3.depositphotos.com/1064045/15061/i/600/depositphotos_150614902-stock-photo-unusual-cinema-concept-3d-illustration.jpg"
         layout="fill"
         className="-z-10 !hidden opacity-60 sm:!inline"
         objectFit="cover"
@@ -72,7 +72,7 @@ function Login() {
         <button className="w-full rounded bg-amber-600 py-3 font-semibold" 
         onClick={() => setLogin(true)}> Sign In</button>
 
-        <div className="text-[gray]">
+        <div className="text-[gray]"> 
             New to NexStream?{"  "} 
             <button type="submit" className="text-white hover:underline"
             onClick={() => setLogin(false)}> 
